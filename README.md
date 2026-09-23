@@ -25,13 +25,16 @@
 <p>Text recognition and translation happen on-device using downloaded language models. No text you scan is sent to us or any third party.</p>
 
 <h2>Analytics</h2>
-<p>[Edit this section: describe any analytics you use, e.g. Firebase Analytics for anonymised usage stats — or remove this section if you don't use any.]</p>
+<p>ClearWords does not use any analytics or tracking services. We do not know how many people use the app, and we do not collect any usage statistics.</p>
 
 <h2>Third parties</h2>
-<p>[Edit this section: confirm whether any part of OCR/translation calls an external API, and if so name it and what it receives.]</p>
+<p>ClearWords uses Google's ML Kit for on-device text recognition, language detection, and translation. Text recognition, language detection, and the translation process itself all run locally on your device. The first time you translate into a new language, ML Kit downloads a small language model file from Google's servers to enable that on-device translation — this is a one-off download per language and does not include the text you're translating. No images, scanned text, or translations are sent to Google, us, or any other third party.</p>
+
+<h2>On-device storage</h2>
+<p>The app saves a small amount of information locally on your device (such as whether you've already seen certain in-app tips) to improve your experience. This information stays on your device and is never transmitted anywhere.</p>
 
 <h2>Contact</h2>
-<p>If you have questions about this policy, contact <a href="mailto:youremail@example.com">youremail@example.com</a>.</p>
+<p>If you have questions about this policy, contact <a href="mailto:info@gturkprojects.co.uk">info@gturkprojects.co.uk</a>.</p>
 
 </body>
 </html>
