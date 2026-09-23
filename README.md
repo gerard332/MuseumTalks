@@ -2,14 +2,6 @@
 <html lang="en-GB">
 <head>
 <meta charset="UTF-8">
-<title>ClearWords Privacy Policy</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #222; }
-  h1 { font-size: 1.6em; }
-  h2 { font-size: 1.2em; margin-top: 1.5em; }
-  .updated { color: #666; font-size: 0.9em; }
-</style>
 </head>
 <body>
 
